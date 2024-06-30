@@ -1,0 +1,5 @@
+sr
+-type_of_compressor
+-num_lot
+-design_drawing
+-production_line
